@@ -1,0 +1,10 @@
+{
+  "name": "ExampleMod",
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "UnityModManager.dll",
+    "0Harmony.dll",
+    "Assembly-CSharp.dll"
+  ],
+  "rootNamespace": "ExampleMod"
+}
